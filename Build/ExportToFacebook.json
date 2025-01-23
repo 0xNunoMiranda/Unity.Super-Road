@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 419430400,
+"dataUrl": "ExportToFacebook.data.unityweb",
+"asmCodeUrl": "ExportToFacebook.asm.code.unityweb",
+"asmMemoryUrl": "ExportToFacebook.asm.memory.unityweb",
+"asmFrameworkUrl": "ExportToFacebook.asm.framework.unityweb",
+"splashScreenStyle": "Light",
+"backgroundColor": "#80858B"
+}
